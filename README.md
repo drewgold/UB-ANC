@@ -1,12 +1,12 @@
 ## UB-ANC Agent API Information
 
-[MAVLink Common Message Set] (https://mavlink.io/en/messages/common.html)
+[MAVLink Common Message Set](https://mavlink.io/en/messages/common.html)
 
-[Copter commands in Guided Mode] (http://ardupilot.org/dev/docs/copter-commands-in-guided-mode.html)
+[Copter commands in Guided Mode](http://ardupilot.org/dev/docs/copter-commands-in-guided-mode.html)
 
-[QGeoCoordinate] (http://doc.qt.io/archives/qt-5.7/qgeocoordinate.html#QGeoCoordinate)
+[QGeoCoordinate](http://doc.qt.io/archives/qt-5.7/qgeocoordinate.html#QGeoCoordinate)
 
-[Vehicle]  (https://github.com/mavlink/qgroundcontrol/blob/Stable_V3.2/src/Vehicle/Vehicle.h)
+[Vehicle](https://github.com/mavlink/qgroundcontrol/blob/Stable_V3.2/src/Vehicle/Vehicle.h)
 
 
 * ###### Get the current position of the drone (QGeoCoordinate):
